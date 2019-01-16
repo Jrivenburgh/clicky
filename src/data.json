@@ -6,57 +6,57 @@
   },
   {
     "id": 2,
-    "image": "clicky/public/assets/images/Broncos.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Broncos.png",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "clicky/public/assets/images/Colts.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Colts.png",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "clicky/public/assets/images/Giants.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Giants.png",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "clicky/public/assets/images/Lions.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Lions.png",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "clicky/public/assets/images/Patriots.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Patriots.png",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "clicky/public/assets/images/Rams.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Rams.png",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "clicky/public/assets/images/Seahawks.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Seahawks.png",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "clicky/public/assets/images/Texans.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Texans.png",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "clicky/public/assets/images/Titans.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Titans.png",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "clicky/public/assets/images/Colts.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Pathers.png",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "clicky/public/assets/images/Colts.png",
+    "image": "https://raw.githubusercontent.com/Jrivenburgh/clicky/master/public/assets/images/Ravens.png",
     "clicked": false
   }
 ]
