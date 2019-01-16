@@ -4,7 +4,9 @@
     height: 150px;
     margin-right: 20px;
     margin-bottom: 20px;
-    background-size: cover;
+    background-size: contain;
+    background-position-y: .3in;
+    background-repeat: no-repeat;
     box-shadow: 5px 5px 5px darkslategrey;
     border-radius: 5px;
 }
