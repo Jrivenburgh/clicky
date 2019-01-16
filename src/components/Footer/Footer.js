@@ -6,8 +6,8 @@ const Footer = () => (
         <div className="bottom">
             <ul id='footer-list'>
                 <li><span><img className='logo' id="reactLogo" src="assets/images/react-logo.png"/></span> Clicky Game!</li>
-                <li>© 2018 Evan Tucker</li>
-                <li><a href="https://github.com/jrivenburgh/clicky-game" target="blank"><span><img className='logo' src="assets/images/github.png"/></span> Github</a></li>
+                <li>© 2019 Joshua Rivenburgh</li>
+                <li><a href="https://github.com/jrivenburgh/clicky" target="blank"><span><img className='logo' src="public/assets/images/github.png"/></span> Github</a></li>
             </ul>
         </div>
     </footer>
