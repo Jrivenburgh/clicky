@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "public/assets/images/Bills.png",
+    "image": "clicky/public/assets/images/Bills.png",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "public/assets/images/Broncos.png",
+    "image": "clicky/public/assets/images/Broncos.png",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "public/assets/images/Colts.png",
+    "image": "clicky/public/assets/images/Colts.png",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "public/assets/images/Giants.png",
+    "image": "clicky/public/assets/images/Giants.png",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "public/assets/images/Lions.png",
+    "image": "clicky/public/assets/images/Lions.png",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "public/assets/images/Patriots.png",
+    "image": "clicky/public/assets/images/Patriots.png",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "public/assets/images/Rams.png",
+    "image": "clicky/public/assets/images/Rams.png",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "public/assets/images/Seahawks.png",
+    "image": "clicky/public/assets/images/Seahawks.png",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "public/assets/images/Texans.png",
+    "image": "clicky/public/assets/images/Texans.png",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "public/assets/images/Titans.png",
+    "image": "clicky/public/assets/images/Titans.png",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "public/assets/images/Colts.png",
+    "image": "clicky/public/assets/images/Colts.png",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "public/assets/images/Colts.png",
+    "image": "clicky/public/assets/images/Colts.png",
     "clicked": false
   }
 ]
